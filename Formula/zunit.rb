@@ -6,9 +6,9 @@ class Zunit < Formula
   head "https://github.com/zunit-zsh/zunit.git", :branch => "next"
 
   devel do
-    url "https://github.com/zunit-zsh/zunit/archive/v0.8.0-beta.tar.gz"
-    version "0.8.0-beta"
-    sha256 "941f95ef7cdc4a3384d821f3d1a4298f5dcabb50ac386b630b5d323676fa6e9a"
+    url "https://github.com/zunit-zsh/zunit/archive/v0.8.0-beta2.tar.gz"
+    version "0.8.0-beta2"
+    sha256 "700079f9180434c814913a99cdc04038089bc0a5d845f3b1389901b39a4a6862"
   end
 
   bottle :unneeded
