@@ -1,8 +1,8 @@
 class Zunit < Formula
   desc "Powerful testing framework for ZSH projects"
   homepage "https://zunit.xyz"
-  url "https://github.com/zunit-zsh/zunit/archive/v0.8.0.tar.gz"
-  sha256 "f4fcdc038e890673b9c793ade7fb2a5965ce618c51935f84021af6a413a6f602"
+  url "https://github.com/zunit-zsh/zunit/archive/v0.8.1.tar.gz"
+  sha256 "5a8e39143b294df67d923814221676ca5a58e36295c458486096e56f94c031a9"
   head "https://github.com/zunit-zsh/zunit.git", :branch => "next"
 
   devel do
