@@ -12,7 +12,7 @@ class Zunit < Formula
   end
 
   bottle :unneeded
-  depends_on "molovo/revolver/revolver" => :run
+  depends_on "molovo/revolver/revolver"
 
   def install
     system "./build.zsh"
