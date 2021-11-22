@@ -11,7 +11,6 @@ class Zunit < Formula
     sha256 "eb94dad722dc7e95395f6e4b6a3e2eea5f7fd487d807112582a73ed7c3b2e4a7"
   end
 
-  bottle :unneeded
   depends_on "molovo/revolver/revolver"
 
   def install
